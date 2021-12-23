@@ -1,0 +1,12 @@
+
+.brandname{
+    display: flex;
+    align-items: center;    
+}
+
+.brandname h1{
+    font-size: 100px;
+    letter-spacing: 10px;
+    font-family: Dancing Script, cursive;    
+    color: #4496ce;    
+}
